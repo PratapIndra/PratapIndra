@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratapIndra
 - 👀 I’m interested in AI. 
-- 🌱 I have been learning programming since 30/5/2022. Just started with python.
+- 🌱 Hello World on  30/5/22. 
 
 <!---
 PratapIndra/PratapIndra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
